@@ -24,7 +24,7 @@ export default function HomePage() {
         text: "Learn About Us",
         href: "#about",
       }}
-      imageSrc="https://storage.googleapis.com/webild/users/user_3FJXOXUaeiCCmwuE8b3sX6RMmgW/uploaded-1782599710043-yrmbp66e.jpg"
+      imageSrc="https://storage.googleapis.com/webild/users/user_3FJXOXUaeiCCmwuE8b3sX6RMmgW/uploaded-1782599710043-yrmbp66e.jpg?_wi=1"
     />
     </SectionErrorBoundary>
   </div>
@@ -85,7 +85,7 @@ export default function HomePage() {
           value: "Global",
           title: "Inclusive",
           description: "Designed to be worn by everyone.",
-          imageSrc: "https://storage.googleapis.com/webild/users/user_3FJXOXUaeiCCmwuE8b3sX6RMmgW/uploaded-1782599710043-yrmbp66e.jpg",
+          imageSrc: "https://storage.googleapis.com/webild/users/user_3FJXOXUaeiCCmwuE8b3sX6RMmgW/uploaded-1782599710043-yrmbp66e.jpg?_wi=2",
         },
       ]}
     />
@@ -158,7 +158,7 @@ export default function HomePage() {
           answer: "Via email at contact@shayfragrances.com.",
         },
       ]}
-      imageSrc="https://storage.googleapis.com/webild/users/user_3FJXOXUaeiCCmwuE8b3sX6RMmgW/uploaded-1782599710043-yrmbp66e.jpg"
+      imageSrc="https://storage.googleapis.com/webild/users/user_3FJXOXUaeiCCmwuE8b3sX6RMmgW/uploaded-1782599710043-yrmbp66e.jpg?_wi=3"
       description="Answers to your inquiries about our scents and house."
     />
     </SectionErrorBoundary>
